@@ -1,8 +1,8 @@
 '''
 Author: 刘博文
 Date: 2023-03-17 20:57:17
-LastEditTime: 2023-03-17 20:19:54
-FilePath: \turtle\turtle_autodraw.py
+LastEditTime: 2023-03-18 23:39:17
+FilePath: turtle_autodraw.py
 Description: 自己开发的一个可根据图片内容自动利用Turtle绘制图像的代码
 https://github.com/touchfisher
 Copyright (c) 2023 by touchfisher, All Rights Reserved. 
